@@ -14,7 +14,7 @@ dQIDAQAB"""
 
 Q3_PORT=8611
 Q3_WORKERS=3
-Q3_DEBUG=false
+Q3_DEBUG=False
 Q3_LOG_LEVEL=debug
 
 Q5_API_KEY= "ak_2mku455wy8bznnkim3ns3jpc"
